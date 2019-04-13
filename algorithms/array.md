@@ -38,7 +38,7 @@ Arrays
   - E.g. `[1, 2, 0, 3, 0, 1, 2]`, the program can output `[1, 2, 3, 1, 2, 0, 0]`.
 - Given an array, return the length of the longest increasing contiguous subarray. ([Solution 1](https://www.geeksforgeeks.org/longest-increasing-subarray/)) ([Solution 2](http://blog.gainlo.co/index.php/2017/02/02/uber-interview-questions-longest-increasing-subarray/))
   - E.g., `[1, 3, 2, 3, 4, 8, 7, 9]`, should return `4` because the longest increasing array is `[2, 3, 4, 8]`
-- Given an array of integers where every value appears twice except one, find the single, non-repeating value. Follow up: do so with O(1) space. ([Solution](https://www.geeksforgeeks.org/find-element-appears-array-every-element-appears-twice/))
+- (OK) Given an array of integers where every value appears twice except one, find the single, non-repeating value. Follow up: do so with O(1) space. ([Solution](https://www.geeksforgeeks.org/find-element-appears-array-every-element-appears-twice/))
   - E.g., `[2, 5, 3, 2, 1, 3, 4, 5, 1]` returns 4, because it is the only value that appears in the array only once.
 
 #### Other
